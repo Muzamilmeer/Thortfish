@@ -257,7 +257,7 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>📞 9103594759<br>📧 GMAIL:saleemmir1855@gmail.com<br>📍 Bandipora, Kashmir</p>
+    <p>📞 +919149915607<br>📧 GMAIL:saleemmir1855@gmail.com<br>📍 Bandipora, Kashmir</p>
     <iframe src="https://maps.google.com/maps?q=highschool chanpal chattibandi &t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>
   </section>
 
