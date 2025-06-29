@@ -258,7 +258,7 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>📞 9682361172<br>📧 GMAIL:saleemmir1855@gmail.com<br>📍 Bandipora, Kashmir</p>
-    <iframe src="https://maps.google.com/maps?q=bandipora&t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>
+    <iframe src="https://maps.google.com/maps?q=highschool chanpal chattibandi &t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>
   </section>
 
   <footer>&copy; 2025 Bandipora Fish Valley. All rights reserved.</footer>
