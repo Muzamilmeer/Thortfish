@@ -251,13 +251,13 @@
     <h2>🗣️ What Our Customers Say</h2>
     <div class="testimonial">
       <p>"Best fish quality in Kashmir! Highly recommended."</p>
-      <cite>– Abdul, Srinagar</cite>
+      <cite>– saleem , waseem bandipora</cite>
     </div>
   </section>
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>📞 9682361172<br>📧 contact@bandiporafishvalley.in<br>📍 Bandipora, Kashmir</p>
+    <p>📞 9682361172<br>📧 GMAIL:saleemmir1855@gmail.com<br>📍 Bandipora, Kashmir</p>
     <iframe src="https://maps.google.com/maps?q=bandipora&t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>
   </section>
 
